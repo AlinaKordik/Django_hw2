@@ -74,6 +74,7 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'netology_orm_migrations',
+        'PASSWORD': 'alinka293001',
         'HOST': '127.0.0.1',
         'PORT': '5432',
     }
